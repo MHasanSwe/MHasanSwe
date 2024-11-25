@@ -2,25 +2,17 @@
 Md. Mahmud Hasan | Cyber Security Enthusiast | CSE Student<br><br>🌱 I’m currently learning Computer Science at United International University<br>🔒 Enthusiastic about Cyber Security, ethical hacking, and system defense.<br>🤝 Always open to collaborating on innovative Cyber Security and Open Source initiatives.<br>💬 Ask me about: Python, Linux, Ethical Hacking, and Machine Learning.<br>⚡ Fun fact: Learning is key, laughter is the way!<br><br>
 
 
-## 🌐 Socials:
-<a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png" alt="LinkedIn"/>
-</a>
-<a href="https://facebook.com/yourprofile" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/facebook.png" alt="Facebook"/>
-</a>
-<a href="https://instagram.com/yourprofile" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram"/>
-</a>
-<a href="https://tryhackme.com/r/p/BinaryBen" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/hacker.png" alt="TryHackMe"/>
-</a>
-<a href="https://leetcode.com/u/mhasan-swe/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/leetcode.png" alt="LeetCode"/>
-</a>
-<a href="https://codeforces.com/profile/m_hassan" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/000000/codeforces.png" alt="Codeforces"/>
-</a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://codeforces.com/profile/m_hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="m_hassan" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mhasan-swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhasan-swe" height="30" width="40" /></a>
+  <a href="https://fb.com/m.hasan.swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.hasan.swe" height="30" width="40" /></a>
+  <a href="https://kaggle.com/mhasan-swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mhasan-swe" height="30" width="40" /></a>
+  <a href="https://instagram.com/m.hasan.swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.hasan.swe" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/users/mhasan338" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mhasan338" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/mhasan338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mhasan338" height="30" width="40" /></a>
+</p>
+
 
 
 # 💻 Tech Stack:
