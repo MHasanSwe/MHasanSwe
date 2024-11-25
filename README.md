@@ -2,7 +2,7 @@
 Md. Mahmud Hasan | Cyber Security Enthusiast | CSE Student<br><br>🌱 I’m currently learning Computer Science at United International University<br>🔒 Enthusiastic about Cyber Security, ethical hacking, and system defense.<br>🤝 Always open to collaborating on innovative Cyber Security and Open Source initiatives.<br>💬 Ask me about: Python, Linux, Ethical Hacking, and Machine Learning.<br>⚡ Fun fact: Learning is key, laughter is the way!<br><br>
 
 
-<h3 align="left">Bridge the Gap!</h3>
+<h3 align="left">🧬 Bridge the Gap!</h3>
 <p align="left">
   <a href="https://codeforces.com/profile/m_hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="m_hassan" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/mhasan-swe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mhasan-swe" height="30" width="40" /></a>
