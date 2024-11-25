@@ -55,8 +55,9 @@ Md. Mahmud Hasan | Cyber Security Enthusiast | CSE Student<br><br>🌱 I’m cur
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MHasanSwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MHasanSwe&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHasanSwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHasanSwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MHasanSwe&theme=dark&hide_border=false)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MHasanSwe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
