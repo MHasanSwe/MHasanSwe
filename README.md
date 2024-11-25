@@ -1,5 +1,6 @@
-# 💫 About Me:
-# **Md. Mahmud Hasan** ### Cyber Security Enthusiast 🔐 | CSE Student 🎓 | Passionate About Defending the Digital World 🌐 <br>
+# 💫 About Me: 
+<h1 align="center"> Md. Mahmud Hasan</h1></br>
+<h3 align="center">Cyber Security Enthusiast 🔐 | Tech Explorer 🚀 | Passionate About Defending the Digital World 🌐 </h3>
 <br>🌱 I’m currently learning Computer Science at United International University<br>🔒 Enthusiastic about Cyber Security, ethical hacking, and system defense.<br>🤝 Always open to collaborating on innovative Cyber Security and Open Source initiatives.<br>💬 Ask me about: Python, Linux, Ethical Hacking, and Machine Learning.<br>⚡ Fun fact: Learning is key, laughter is the way!<br><br>
 
 
