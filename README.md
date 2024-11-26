@@ -56,11 +56,22 @@
 
 
 # 📊 GitHub Stats:
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <div style="flex: 1; text-align: left;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhasanSwe&theme=default&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Mahmud Hasan Most Used Languages" />
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img src="https://github-readme-stats.vercel.app/api?username=MhasanSwe&theme=default&hide_border=false&include_all_commits=false&count_private=true" alt="Mahmud Hasan GitHub Stats" />
+  </div>
+</div>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MHasanSwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=MHasanSwe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MHasanSwe&theme=dark&hide_border=false)  
+<div style="margin-top: 20px;">
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MhasanSwe&theme=default&hide_border=false" alt="Mahmud Hasan GitHub Streak" />
+  </div>
+</div>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MHasanSwe&theme=radical&no-frame=false&no-bg=true&margin-w=4)
